@@ -1,0 +1,3 @@
+D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/.cxx/Debug/1g5w2p40/armeabi-v7a/CMakeFiles/yolov8ncnn.dir
+D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/.cxx/Debug/1g5w2p40/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/.cxx/Debug/1g5w2p40/armeabi-v7a/CMakeFiles/rebuild_cache.dir

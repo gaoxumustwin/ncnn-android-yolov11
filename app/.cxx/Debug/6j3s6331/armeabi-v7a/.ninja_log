@@ -1,0 +1,19 @@
+# ninja log v5
+0	506	754376584	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	985066d10a99bb1e
+23	567	754376584	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	d7a6e1aad5d9935a
+1	544	754376675	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	d7a6e1aad5d9935a
+2	699	754377085	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+700	918	754377085	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f
+3	262	754377720	build.ninja	7ccab5038ba06157
+2	745	754377721	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	d7a6e1aad5d9935a
+39	924	754377721	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+924	1096	754377721	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f
+28	569	754382284	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	d7a6e1aad5d9935a
+2	662	754382605	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+663	839	754382605	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f
+2	665	754382853	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+665	835	754382853	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f
+2	760	754382924	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+761	930	754382924	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f
+1	695	754382991	CMakeFiles/yolov8ncnn.dir/yolov8pose.cpp.o	4e2a1cf78f767566
+696	865	754382991	D:/Users/XueLi_G/Desktop/ncnn-android-yolov8-pose/app/build/intermediates/cxx/Debug/6j3s6331/obj/armeabi-v7a/libyolov8ncnn.so	e50d0dab6c8d591f

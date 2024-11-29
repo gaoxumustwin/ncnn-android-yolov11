@@ -1,0 +1,4 @@
+Found OpenCV: E:/Github/ncnn-android-yolov8-pose/app/src/main/jni/opencv-mobile-4.5.1-android (found version "4.5.1") found components:  core imgproc 
+Found OpenMP_C: -fopenmp=libomp  
+Found OpenMP_CXX: -fopenmp=libomp  
+Configuring done

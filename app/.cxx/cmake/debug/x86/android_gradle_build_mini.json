@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86\\OpenCVConfig.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules-release.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "C:\\Users\\wangke\\AppData\\Local\\Android\\Sdk\\ndk\\android-ndk-r21e-windows-x86_64\\android-ndk-r21e\\build\\cmake\\platforms.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-x86\\OpenCVModules.cmake",
+    "C:\\Users\\wangke\\AppData\\Local\\Android\\Sdk\\ndk\\android-ndk-r21e-windows-x86_64\\android-ndk-r21e\\build\\cmake\\android.toolchain.cmake",
+    "E:\\Github\\ncnn-android-yolov8-pose\\app\\src\\main\\jni\\ncnn-20240410-android-vulkan\\x86\\lib\\cmake\\ncnn\\ncnn.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\wangke\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Github\\ncnn-android-yolov8-pose\\app\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\wangke\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Github\\ncnn-android-yolov8-pose\\app\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov8ncnn-Debug-x86": {
+      "artifactName": "yolov8ncnn",
+      "buildCommand": "C:\\Users\\wangke\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\Github\\ncnn-android-yolov8-pose\\app\\.cxx\\cmake\\debug\\x86\" yolov8ncnn",
+      "abi": "x86",
+      "output": "E:\\Github\\ncnn-android-yolov8-pose\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libyolov8ncnn.so"
+    }
+  }
+}
