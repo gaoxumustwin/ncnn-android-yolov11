@@ -312,7 +312,7 @@ std::vector<Object> Inference::runInference(const cv::Mat &bgr)
 
     ncnn::Extractor ex = net.create_extractor();
 
-    ex.input("images", in_pad);
+    ex.input("in0", in_pad);
 
 
     std::vector<Object> proposals;
@@ -320,7 +320,7 @@ std::vector<Object> Inference::runInference(const cv::Mat &bgr)
     // stride 8
     {
         ncnn::Mat out;
-        ex.extract("output0", out);
+        ex.extract("out0", out);
 
         std::vector<Object> objects8;
         generate_proposals(8, out, prob_threshold, objects8);
@@ -331,7 +331,7 @@ std::vector<Object> Inference::runInference(const cv::Mat &bgr)
     // stride 16
     {
         ncnn::Mat out;
-        ex.extract("430", out);
+        ex.extract("out1", out);
 
         std::vector<Object> objects16;
         generate_proposals(16, out, prob_threshold, objects16);
@@ -342,7 +342,7 @@ std::vector<Object> Inference::runInference(const cv::Mat &bgr)
     // stride 32
     {
         ncnn::Mat out;
-        ex.extract("448", out);
+        ex.extract("out2", out);
 
         std::vector<Object> objects32;
         generate_proposals(32, out, prob_threshold, objects32);

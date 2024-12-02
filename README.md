@@ -11,8 +11,9 @@ https://github.com/nihui/opencv-mobile
 ## optimization
 
 - Network architecture only `Backbone` + `Neck`
-- The activation function is RELU
 - FP16 reasoning
+
+There was a problem with changing the activation function to RELU, which identified a large number of error detection boxes. However, I still believe that changing the activation function to RELU is the correct approach. I will verify where the problem lies when I have time later
 
 ## Detailed Tutorial
 
